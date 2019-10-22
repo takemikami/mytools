@@ -1,0 +1,5 @@
+#!/bin/sh
+
+MYTOOLS_DIR=$(cd $(dirname $0)/..; pwd)
+
+python3 $MYTOOLS_DIR/python/sync_include.py $@

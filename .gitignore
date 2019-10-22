@@ -1,0 +1,7 @@
+.idea/*
+!.idea/codeStyles
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/mytools.iml
+!.idea/externalDependencies.xml
+!.idea/saveactions_settings.xml
