@@ -6,6 +6,7 @@ mytools
 ## ツール一覧
 
 - sync_include ... コードフラグメントの同期コマンド
+- walkman_itunes_copy ... iTunesプレイリストのWalkmanへのコピーコマンド
 
 ## インストール方法
 
